@@ -2,7 +2,7 @@
 #include<time.h>
 #include<stdio.h>
 #include<stdlib.h>
-
+//hhhhhhhhhhhhhh
 int menu()
 {
 	printf("************1.play************\n");
