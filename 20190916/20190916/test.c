@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
 #include<string.h>
-
+//0916×¢ÊÍ
 int main()
 {
 	unsigned int a = 10;
